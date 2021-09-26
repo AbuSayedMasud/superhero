@@ -1,0 +1,35 @@
+.unit img 
+{
+width: 120px;
+height: 120px;
+border-radius: 50%;
+display: block;
+margin: auto;
+
+
+}
+.unit
+{
+    padding: 20px;
+    box-shadow: 10px 10px 10px gray;
+    color: rgb(37, 35, 35);
+    background-color:#cfd1d36b;
+}
+.unit-text
+{
+    margin-top: 10px;
+}
+.unit-text h4{
+    font-size: 18px;
+    font-weight: 400;
+
+}
+.btn-addCart
+{
+    margin-top: 10px;
+    padding: 5px 40px;
+    border:2px solid rgb(212, 108, 16);
+    text-transform: capitalize;
+    
+}
+

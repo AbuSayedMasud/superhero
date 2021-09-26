@@ -1,0 +1,13 @@
+.create-units
+{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.unit-container 
+{
+    margin: 50px 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+}

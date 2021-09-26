@@ -1,0 +1,25 @@
+/* card design */
+.cart
+{
+    margin-top: 100px;
+    margin-left: 20px;
+}
+/* length design */
+.length
+{
+   color: lightslategray; 
+   font-size: 20px;
+}
+/* li design */
+li
+{
+    list-style: none;
+    border: 2px solid #90a8b9;
+    margin-bottom: 10px;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-right: 15px;
+    box-shadow: 5px 5px 5px gray;
+    color:rgb(75, 132, 192);
+
+}

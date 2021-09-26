@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Habibur Rahman",
+      "age": 40,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d1/DIG_Habibur_Rahman_at_police_Headquarters_with_uniform.jpg",
+      "from": "Police",
+      "rank": "Aditional Director General",
+      "salary": 70000
+    },
+    {
+      "id": 2,
+      "name": "Mohibul Islam",
+      "age": 34,
+      "img": "https://images.firstpost.com/wp-content/uploads/2015/12/Bangladesh-dhaka-police-AFP-380.jpg?impolicy=website&width=640&height=363",
+      "from": "Police",
+      "rank": "Director",
+      "salary": 50000
+    },
+    {
+      "id": 3,
+      "name": "Mst. Shahala Pervi",
+      "age": 36,
+      "img": "https://leph2021philadelphia.com/wp-content/uploads/2021/01/photo.jpeg",
+      "from": "Police",
+      "rank": "Director",
+      "salary": 50000
+    },
+    {
+      "id": 4,
+      "name": "Abdul Kader",
+      "age": 30,
+      "img": "https://khagrachari.police.gov.bd/wp-content/uploads/2016/03/123.jpg",
+      "from": "Police",
+      "rank": "Assintant Director",
+      "salary": 40000
+    },
+    {
+      "id": 5,
+      "name": "Md. Kudrat-E- Khuda Shuvo",
+      "age": 35,
+      "img": "https://bpa.police.gov.bd/uploads/faculties/20200713_1594642106.jpg",
+      "from": "Police",
+      "rank": "Director",
+      "salary": 50000
+    },
+    {
+      "id": 6,
+      "name": "Shakil Ahmed",
+      "age": 45,
+      "img": "https://www.tblbd.com/sites/default/files/2021-03/Maj-Gen-Shakil-Ahmed.png",
+      "from": "Army",
+      "rank": " Additional Director General",
+      "salary": 80000
+    },
+    {
+      "id": 7,
+      "name": "Md Golam Faruque",
+      "age": 48,
+      "img": "https://www.tblbd.com/sites/default/files/styles/mt_member_photo/public/2020-09/Brig-Gen-Md-Golam-Faruque%2C-SGP%2C-SUP%2C-nswc%2C-afwc%2C-psc.jpg?itok=YfVfxCjr",
+      "from": "Army",
+      "rank": " Additional Director General",
+      "salary": 80000
+    },
+    {
+      "id": 8,
+      "name": "Faruquk Ahmed",
+      "age": 55,
+      "img": "https://mist.ac.bd/storage/files/storage/files/global/cd511.jpg",
+      "from": "Army",
+      "rank": "Director",
+      "salary": 50000
+    },
+    {
+      "id": 9,
+      "name": "Fatema Begum",
+      "age": 28,
+      "img": "https://www.theindependentbd.com/assets/news_images/Women-soldiers.jpg",
+      "from": "Army",
+      "rank": "Director",
+      "salary": 50000
+    }
+  ]
